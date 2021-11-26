@@ -1,0 +1,4 @@
+---
+applications:
+ - name: testingara
+   random-route: true
